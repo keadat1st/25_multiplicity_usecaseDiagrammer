@@ -7,4 +7,4 @@ Agenda day 25 (design)
 * [Materials from teachings](https://github.com/keadat1st/25_materialer_fra_undervisningen)
 
 ## Exercises
-* [Ex: Car Wash Use Case Diagram & Use Cases](https://docs.google.com/document/d/e/2PACX-1vRp-r_kpebxLAGc3l8CB2P8xbLoaEoLlFhaTx4t6igx3uuCkzHSDMuk_a4BxOGLBxk7HR8rYGf-GO6X/pub)
+* [Ex: Car Wash Use Case Diagram & Use Cases](https://github.com/keadat1st/25_Exercise_Car_Wash_Use_Case_Diagram_Use_Cases/blob/master/README.md)
